@@ -1,0 +1,23 @@
+*{
+    background-color: #B99095;
+    color: #3D5B59;
+    text-align: center;
+    
+}
+
+.wordlist {
+    color: #D4F1F4;
+    margin: auto;
+    width: 350px;
+    align-items: start;
+}
+input {
+    color: aquamarine;
+}
+
+input::placeholder {
+    color: bisque;
+}
+#btn {
+    color: bisque;
+}
